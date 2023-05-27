@@ -1,0 +1,112 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "product": "shirt",
+            "brand": "peterenglang",
+            "color": "white",
+            "price": "399",
+            "type": "formal",
+            "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/h/h/4/xl-st10-vebnor-original-imagnedycgmr2z3p.jpeg?q=70"
+        },
+        {
+            "id": "2",
+            "product": "shirt",
+            "brand": "oxember",
+            "color": "black",
+            "price": "299",
+            "type": "casual",
+            "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/f/u/v/l-st10-vebnor-original-imagnsjsrgdgdccg.jpeg?q=70"
+        },
+        {
+            "id": "3",
+            "product": "shirt",
+            "brand": "code",
+            "color": "white",
+            "price": "499",
+            "type": "formal",
+            "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/v/1/n/s-s-v-b-black-sai-enterprise-original-imagf322kwwcyfzv.jpeg?q=70"
+        },
+        {
+            "id": "4",
+            "product": "shirt",
+            "brand": "max",
+            "color": "white",
+            "price": "299",
+            "type": "casual",
+            "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/q/b/s/s-st10-vebnor-original-imagkhzschtb2ghg.jpeg?q=70"
+        },
+        {
+            "id": "5",
+            "product": "shirt",
+            "brand": "basics",
+            "color": "white",
+            "price": "699",
+            "type": "formal",
+            "image": "https://rukminim1.flixcart.com/image/612/612/l3lx8cw0/shirt/c/v/r/s-men-regular-fit-striped-ribbed-collar-casual-shirt-icome-original-imagezwnh7gxb7kd.jpeg?q=70"
+        },
+        {
+            "id": "6",
+            "product": "shirt",
+            "brand": "blackwhite",
+            "color": "white",
+            "price": "599",
+            "type": "casual",
+            "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/0/m/s/xxl-pink-1-otus-original-imagjg3g2uj2ez4p.jpeg?q=70"
+        },
+        {
+            "id": "7",
+            "product": "shirt",
+            "brand": "peterenglang",
+            "color": "white",
+            "price": "399",
+            "type": "formal",
+            "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/y/z/h/xl-sh-chi-9-u-turn-original-imagzyehsyzctm7x.jpeg?q=70"
+        },
+        {
+            "id": "8",
+            "product": "shirt",
+            "brand": "zudio",
+            "color": "white",
+            "price": "299",
+            "type": "casual",
+            "image": "https://rukminim1.flixcart.com/image/612/612/l4ssfww0/shirt/d/y/b/xl-sv0011-n-nik-original-imagfmcbw7aayqh8.jpeg?q=70"
+        },
+        {
+            "id": "9",
+            "product": "shirt",
+            "brand": "zudio",
+            "color": "white",
+            "price": "299",
+            "type": "formal",
+            "image": "https://rukminim1.flixcart.com/image/612/612/l4ssfww0/shirt/d/y/b/xl-sv0011-n-nik-original-imagfmcbw7aayqh8.jpeg?q=70"
+        },
+        {
+            "id": "10",
+            "product": "shirt",
+            "brand": "peterenglang",
+            "color": "white",
+            "price": "399",
+            "type": "casual",
+            "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/y/z/h/xl-sh-chi-9-u-turn-original-imagzyehsyzctm7x.jpeg?q=70"
+        },
+        {
+            "id": "11",
+            "product": "shirt",
+            "brand": "basics",
+            "color": "white",
+            "price": "699",
+            "type": "formal",
+            "image": "https://rukminim1.flixcart.com/image/612/612/l3lx8cw0/shirt/c/v/r/s-men-regular-fit-striped-ribbed-collar-casual-shirt-icome-original-imagezwnh7gxb7kd.jpeg?q=70"
+        },
+        {
+            "id": "3",
+            "product": "shirt",
+            "brand": "code",
+            "color": "white",
+            "price": "499",
+            "type": "casual",
+            "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/v/1/n/s-s-v-b-black-sai-enterprise-original-imagf322kwwcyfzv.jpeg?q=70"
+        }
+    ]
+}
